@@ -1,4 +1,17 @@
 *.class
+*.suo
+*.user
+*.sln.docstates
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
